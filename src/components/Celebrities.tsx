@@ -38,7 +38,7 @@ const Celebrities: FC = () => {
 
         setCelebrities(data);
       } catch (err) {
-        setError(err instanceof Error ? err.message : 'Failed to  load celebrities');
+        setError(err instanceof Error ? err.message : 'Failed to fetch celebrities');
       } finally {
         setLoading(false);
       }
