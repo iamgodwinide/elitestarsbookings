@@ -10,8 +10,6 @@ const socialLinks = [
   { icon: FaLinkedinIn, href: '#', label: 'LinkedIn' }
 ];
 
-
-
 const contactInfo = [
   {
     icon: FaEnvelope,
