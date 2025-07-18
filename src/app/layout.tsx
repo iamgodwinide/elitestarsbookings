@@ -13,6 +13,8 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+
+
 export const metadata: Metadata = {
   title: "Elite Stars Booking- Celebrity Booking Platform.",
   description: "Book your favorite celebrities for events and experiences.",
