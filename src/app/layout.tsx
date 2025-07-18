@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Elite Stars Booking- Celebrity Booking Platform",
-  description: "Book your favorite celebrities for events and experiences",
+  description: "Book your favorite celebrities for events and experiences.",
 };
 
 export default function RootLayout({
