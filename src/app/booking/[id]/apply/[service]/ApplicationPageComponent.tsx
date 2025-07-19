@@ -347,7 +347,7 @@ const ApplicationPageComponent = ({
                           placeholder="Enter your budget"
                         />
                       </div>
-                      <p className="text-gray-400 text-sm mt-2">Minimum budget: $100</p>
+                      <p className="text-gray-400 text-sm mt-2">Minimum budget: $3000</p>
                     </div>
                   )}
   
