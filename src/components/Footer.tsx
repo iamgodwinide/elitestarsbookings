@@ -128,7 +128,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-sm">
-              © {currentYear} Booking Stars. All rights reserved.
+              © {currentYear} Elite Celeb Bookings. All rights reserved.
             </div>
             <div className="flex items-center space-x-4 text-sm">
               <Link href="#" className="hover:text-white transition-colors duration-300">
@@ -144,7 +144,7 @@ const Footer = () => {
             <div className="text-sm flex items-center space-x-1">
               <span>Made with</span>
               <FaHeart className="w-4 h-4 text-pink-500" />
-              <span>by Booking Stars Team</span>
+              <span>by Elite Celeb Bookings Team</span>
             </div>
           </div>
         </div>

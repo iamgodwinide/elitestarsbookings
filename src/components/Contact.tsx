@@ -14,8 +14,8 @@ const contactInfo = [
   {
     icon: FaEnvelope,
     title: 'Email Us',
-    details: 'info@xtremmodels.cfd',
-    link: 'mailto:info@xtremmodels.cfd'
+    details: 'support@elitcelebbookings.cfd',
+    link: 'mailto:support@elitcelebbookings.cfd'
   },
   {
     icon: FaPhone,
